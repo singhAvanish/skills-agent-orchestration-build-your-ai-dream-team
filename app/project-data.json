@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "name": "Launchpad Revamp",
+      "owner": "Ava",
+      "status": "On Track",
+      "recentActivity": "Completed the onboarding flow QA check and moved review feedback into the sprint board.",
+      "priority": "High"
+    },
+    {
+      "name": "Contributor Signals",
+      "owner": "Jules",
+      "status": "At Risk",
+      "recentActivity": "The analytics pipeline is waiting on a vendor export and the timing has slipped by one week.",
+      "priority": "Medium"
+    },
+    {
+      "name": "Docs Refresh",
+      "owner": "Priya",
+      "status": "Blocked",
+      "recentActivity": "The content review is paused until legal signs off on the new security wording.",
+      "priority": "High"
+    },
+    {
+      "name": "Release Quality",
+      "owner": "Milo",
+      "status": "On Track",
+      "recentActivity": "Stability checks are green and the release candidate is ready for customer validation.",
+      "priority": "Low"
+    }
+  ]
+}
